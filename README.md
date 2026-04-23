@@ -41,7 +41,25 @@ The program computes:
 All monetary values are expressed in generic currency units ($), allowing application in any country.
 
 ---
+## 🧪 Example
 
+Input:
+- System power: 1.34
+- Monthly irradiation: 170
+- Efficiency: 0.8
+- Tariff: 0.85
+- Installation cost: 7500
+- Maintenance: 200
+- Households: 2200
+- Adoption rate: 0.3
+- Time: 7
+
+Output:
+- Payback time: ~5.2 years
+- Individual return: positive
+- Total city return: significant
+  
+---
 ## ▶️ How to Use
 Run the script:
 

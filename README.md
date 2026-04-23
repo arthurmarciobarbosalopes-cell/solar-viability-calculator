@@ -55,9 +55,9 @@ Input:
 - Time: 7
 
 Output:
-- Payback time: ~5.2 years
-- Individual return: positive
-- Total city return: significant
+- Payback time: 4.52 years
+- Individual return: 4111.94 $
+- Total city return: 2713877.76 $
   
 ---
 ## ▶️ How to Use

@@ -1,6 +1,5 @@
-# solar-viability-calculator
+# Solar-viability-calculator
 A simple analytical tool to evaluate solar energy economic viability
-# Solar Viability Calculator
 
 This project provides a simple and general computational tool to evaluate the economic viability of residential photovoltaic systems. The model is based on a physical–economic formulation and allows users to estimate both individual and collective financial returns from solar energy adoption.
 
